@@ -26,3 +26,5 @@ I spent 10+ years as a designer and marketer for clients in the US, UK, UAE and 
 **Learning:** I've completed Angela Yu's Full-Stack Web Development, 100 Days of Python and Flutter bootcamps. Now I'm going deeper into Node.js, system design (HLD and LLD) and application security.
 
 **Open to:** product builds, internal tools and SaaS MVPs where design, engineering and go-to-market need to come from one person.
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/khizar226/)
